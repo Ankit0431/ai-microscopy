@@ -1,0 +1,12 @@
+path: C:\Ankit\Reposetories\honors-final-project\models\malaria_model\malaria_dataset_final
+
+train: images/train  # training images
+val: images/val      # validation images
+
+
+nc: 2  # number of classes
+
+# class names (0, 1)
+names: 
+  - parasite
+  - white_blood_cell

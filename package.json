@@ -1,0 +1,21 @@
+{
+  "name": "honors-final-project",
+  "version": "1.0.0",
+  "description": "Medical application with frontend and backend deployment",
+  "type": "module",
+  "scripts": {
+    "deploy-backend": "node deploy-backend.js",
+    "setup-backend": "node deploy-backend.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "deployment",
+    "aws",
+    "ecs",
+    "github-actions",
+    "docker"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
